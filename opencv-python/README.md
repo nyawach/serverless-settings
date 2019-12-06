@@ -14,7 +14,7 @@ $ vi serverless.yml
 $ sls deploy
 ```
 
-And POST API endpoint with this body.
+POST API endpoint (`https://xxx.execute-api.ap-northeast-1.amazonaws.com/dev/opencv`) with this body.
 
 ```json
 {
